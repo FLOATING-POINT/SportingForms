@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2014 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a07.nexus.opta.net
+     production time:    20140606T080109,251Z
+     production module:  Opta::Feed::XML::Soccer::F1
+-->
+<SoccerFeed>
+  <SoccerDocument Type="RESULTS Latest" competition_code="IG_WC" competition_id="4" competition_name="World Cup" game_system_id="1" season_id="2013" season_name="Season 2013/2014" timestamp="2014-06-06 09-01-09">
+    <MatchData detail_id="1" last_modified="2014-05-23T15:55:19+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731767">
+      <MatchInfo GroupName="A" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8606">
+        <Date>2014-06-12 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena de São Paulo</Stat>
+      <Stat Type="City">São Paulo</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t614" />
+      <TeamData Side="Away" TeamRef="t535" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:55:28+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731770">
+      <MatchInfo GroupName="B" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8608">
+        <Date>2014-06-13 23:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Pantanal</Stat>
+      <Stat Type="City">Cuiaba</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t831" />
+      <TeamData Side="Away" TeamRef="t575" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:55:22+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731768">
+      <MatchInfo GroupName="A" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8607">
+        <Date>2014-06-13 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena das Dunas</Stat>
+      <Stat Type="City">Natal</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t659" />
+      <TeamData Side="Away" TeamRef="t494" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:55:25+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731769">
+      <MatchInfo GroupName="B" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8605">
+        <Date>2014-06-13 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Fonte Nova</Stat>
+      <Stat Type="City">Salvador</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t118" />
+      <TeamData Side="Away" TeamRef="t366" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:55:31+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731771">
+      <MatchInfo GroupName="C" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2905">
+        <Date>2014-06-14 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio Mineirão</Stat>
+      <Stat Type="City">Belo Horizonte</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t832" />
+      <TeamData Side="Away" TeamRef="t517" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:55:40+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731774">
+      <MatchInfo GroupName="D" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8610">
+        <Date>2014-06-14 23:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Amazonia</Stat>
+      <Stat Type="City">Manaus</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t114" />
+      <TeamData Side="Away" TeamRef="t119" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:55:37+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731773">
+      <MatchInfo GroupName="D" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="6586">
+        <Date>2014-06-14 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Castelão</Stat>
+      <Stat Type="City">Fortaleza</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t837" />
+      <TeamData Side="Away" TeamRef="t838" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:56:24+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731777">
+      <MatchInfo GroupName="F" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2900">
+        <Date>2014-06-15 23:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio do Maracanã</Stat>
+      <Stat Type="City">Rio de Janeiro</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t632" />
+      <TeamData Side="Away" TeamRef="t537" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:55:35+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731772">
+      <MatchInfo GroupName="C" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8604">
+        <Date>2014-06-15 02:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Pernambuco</Stat>
+      <Stat Type="City">Recife</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1221" />
+      <TeamData Side="Away" TeamRef="t1266" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:56:21+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731776">
+      <MatchInfo GroupName="E" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2920">
+        <Date>2014-06-15 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio Beira-Rio</Stat>
+      <Stat Type="City">Porto Alegre</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t368" />
+      <TeamData Side="Away" TeamRef="t847" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:55:44+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731775">
+      <MatchInfo GroupName="E" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3006">
+        <Date>2014-06-15 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Nacional Mané Garrincha</Stat>
+      <Stat Type="City">Brasília</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t497" />
+      <TeamData Side="Away" TeamRef="t830" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:56:29+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731779">
+      <MatchInfo GroupName="G" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8605">
+        <Date>2014-06-16 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Fonte Nova</Stat>
+      <Stat Type="City">Salvador</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t357" />
+      <TeamData Side="Away" TeamRef="t359" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:56:32+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731780">
+      <MatchInfo GroupName="G" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8607">
+        <Date>2014-06-16 23:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena das Dunas</Stat>
+      <Stat Type="City">Natal</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1219" />
+      <TeamData Side="Away" TeamRef="t596" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:56:26+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731778">
+      <MatchInfo GroupName="F" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3693">
+        <Date>2014-06-16 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena da Baixada</Stat>
+      <Stat Type="City">Curitiba</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1042" />
+      <TeamData Side="Away" TeamRef="t1216" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:56:34+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731781">
+      <MatchInfo GroupName="H" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2905">
+        <Date>2014-06-17 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio Mineirão</Stat>
+      <Stat Type="City">Belo Horizonte</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t360" />
+      <TeamData Side="Away" TeamRef="t1215" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:56:40+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731783">
+      <MatchInfo GroupName="A" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="6586">
+        <Date>2014-06-17 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Castelão</Stat>
+      <Stat Type="City">Fortaleza</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t614" />
+      <TeamData Side="Away" TeamRef="t659" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:56:37+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731782">
+      <MatchInfo GroupName="H" MatchDay="1" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8608">
+        <Date>2014-06-17 23:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Pantanal</Stat>
+      <Stat Type="City">Cuiaba</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t536" />
+      <TeamData Side="Away" TeamRef="t1041" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:57:13+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731786">
+      <MatchInfo GroupName="B" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2920">
+        <Date>2014-06-18 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio Beira-Rio</Stat>
+      <Stat Type="City">Porto Alegre</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t575" />
+      <TeamData Side="Away" TeamRef="t366" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:56:42+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731784">
+      <MatchInfo GroupName="A" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8610">
+        <Date>2014-06-18 23:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Amazonia</Stat>
+      <Stat Type="City">Manaus</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t494" />
+      <TeamData Side="Away" TeamRef="t535" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:56:46+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731785">
+      <MatchInfo GroupName="B" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2900">
+        <Date>2014-06-18 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio do Maracanã</Stat>
+      <Stat Type="City">Rio de Janeiro</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t118" />
+      <TeamData Side="Away" TeamRef="t831" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:57:15+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731787">
+      <MatchInfo GroupName="C" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3006">
+        <Date>2014-06-19 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Nacional Mané Garrincha</Stat>
+      <Stat Type="City">Brasília</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t832" />
+      <TeamData Side="Away" TeamRef="t1221" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:57:18+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731788">
+      <MatchInfo GroupName="C" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8607">
+        <Date>2014-06-19 23:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena das Dunas</Stat>
+      <Stat Type="City">Natal</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1266" />
+      <TeamData Side="Away" TeamRef="t517" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:57:21+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731789">
+      <MatchInfo GroupName="D" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8606">
+        <Date>2014-06-19 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena de São Paulo</Stat>
+      <Stat Type="City">São Paulo</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t837" />
+      <TeamData Side="Away" TeamRef="t114" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:08+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731792">
+      <MatchInfo GroupName="E" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3693">
+        <Date>2014-06-20 23:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena da Baixada</Stat>
+      <Stat Type="City">Curitiba</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t847" />
+      <TeamData Side="Away" TeamRef="t830" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:57:23+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731790">
+      <MatchInfo GroupName="D" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8604">
+        <Date>2014-06-20 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Pernambuco</Stat>
+      <Stat Type="City">Recife</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t119" />
+      <TeamData Side="Away" TeamRef="t838" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:57:26+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731791">
+      <MatchInfo GroupName="E" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8605">
+        <Date>2014-06-20 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Fonte Nova</Stat>
+      <Stat Type="City">Salvador</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t497" />
+      <TeamData Side="Away" TeamRef="t368" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:12+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731793">
+      <MatchInfo GroupName="F" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2905">
+        <Date>2014-06-21 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio Mineirão</Stat>
+      <Stat Type="City">Belo Horizonte</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t632" />
+      <TeamData Side="Away" TeamRef="t1042" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:17+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731795">
+      <MatchInfo GroupName="G" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="6586">
+        <Date>2014-06-21 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Castelão</Stat>
+      <Stat Type="City">Fortaleza</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t357" />
+      <TeamData Side="Away" TeamRef="t1219" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:15+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731794">
+      <MatchInfo GroupName="F" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8608">
+        <Date>2014-06-21 23:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Pantanal</Stat>
+      <Stat Type="City">Cuiaba</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1216" />
+      <TeamData Side="Away" TeamRef="t537" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:24+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731797">
+      <MatchInfo GroupName="H" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2900">
+        <Date>2014-06-22 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio do Maracanã</Stat>
+      <Stat Type="City">Rio de Janeiro</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t360" />
+      <TeamData Side="Away" TeamRef="t536" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:27+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731798">
+      <MatchInfo GroupName="H" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2920">
+        <Date>2014-06-22 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio Beira-Rio</Stat>
+      <Stat Type="City">Porto Alegre</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1041" />
+      <TeamData Side="Away" TeamRef="t1215" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:21+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731796">
+      <MatchInfo GroupName="G" MatchDay="2" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8610">
+        <Date>2014-06-22 23:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Amazonia</Stat>
+      <Stat Type="City">Manaus</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t596" />
+      <TeamData Side="Away" TeamRef="t359" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:36+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731801">
+      <MatchInfo GroupName="B" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3693">
+        <Date>2014-06-23 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena da Baixada</Stat>
+      <Stat Type="City">Curitiba</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t575" />
+      <TeamData Side="Away" TeamRef="t118" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731799">
+      <MatchInfo GroupName="A" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3006">
+        <Date>2014-06-23 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Nacional Mané Garrincha</Stat>
+      <Stat Type="City">Brasília</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t494" />
+      <TeamData Side="Away" TeamRef="t614" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:33+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731800">
+      <MatchInfo GroupName="A" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8604">
+        <Date>2014-06-23 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Pernambuco</Stat>
+      <Stat Type="City">Recife</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t535" />
+      <TeamData Side="Away" TeamRef="t659" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:38+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731802">
+      <MatchInfo GroupName="B" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8606">
+        <Date>2014-06-23 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena de São Paulo</Stat>
+      <Stat Type="City">São Paulo</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t366" />
+      <TeamData Side="Away" TeamRef="t831" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:49+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731806">
+      <MatchInfo GroupName="D" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2905">
+        <Date>2014-06-24 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio Mineirão</Stat>
+      <Stat Type="City">Belo Horizonte</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t838" />
+      <TeamData Side="Away" TeamRef="t114" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:44+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731804">
+      <MatchInfo GroupName="C" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="6586">
+        <Date>2014-06-24 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Castelão</Stat>
+      <Stat Type="City">Fortaleza</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t517" />
+      <TeamData Side="Away" TeamRef="t1221" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:47+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731805">
+      <MatchInfo GroupName="D" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8607">
+        <Date>2014-06-24 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena das Dunas</Stat>
+      <Stat Type="City">Natal</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t119" />
+      <TeamData Side="Away" TeamRef="t837" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:41+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731803">
+      <MatchInfo GroupName="C" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8608">
+        <Date>2014-06-24 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Pantanal</Stat>
+      <Stat Type="City">Cuiaba</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1266" />
+      <TeamData Side="Away" TeamRef="t832" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:59:46+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731810">
+      <MatchInfo GroupName="F" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8605">
+        <Date>2014-06-25 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Fonte Nova</Stat>
+      <Stat Type="City">Salvador</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t537" />
+      <TeamData Side="Away" TeamRef="t1042" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:54+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731808">
+      <MatchInfo GroupName="E" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2900">
+        <Date>2014-06-25 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio do Maracanã</Stat>
+      <Stat Type="City">Rio de Janeiro</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t830" />
+      <TeamData Side="Away" TeamRef="t368" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:52+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731807">
+      <MatchInfo GroupName="E" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8610">
+        <Date>2014-06-25 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Amazonia</Stat>
+      <Stat Type="City">Manaus</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t847" />
+      <TeamData Side="Away" TeamRef="t497" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:58:58+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731809">
+      <MatchInfo GroupName="F" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="2920">
+        <Date>2014-06-25 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio Beira-Rio</Stat>
+      <Stat Type="City">Porto Alegre</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1216" />
+      <TeamData Side="Away" TeamRef="t632" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:59:58+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731814">
+      <MatchInfo GroupName="H" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3693">
+        <Date>2014-06-26 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena da Baixada</Stat>
+      <Stat Type="City">Curitiba</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1215" />
+      <TeamData Side="Away" TeamRef="t536" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:59:52+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731812">
+      <MatchInfo GroupName="G" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="3006">
+        <Date>2014-06-26 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Nacional Mané Garrincha</Stat>
+      <Stat Type="City">Brasília</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t359" />
+      <TeamData Side="Away" TeamRef="t1219" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:59:55+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731813">
+      <MatchInfo GroupName="H" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8606">
+        <Date>2014-06-26 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena de São Paulo</Stat>
+      <Stat Type="City">São Paulo</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1041" />
+      <TeamData Side="Away" TeamRef="t360" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T15:59:49+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731811">
+      <MatchInfo GroupName="G" MatchDay="3" MatchType="Regular" Period="PreMatch" RoundNumber="1" RoundType="Round" Venue_id="8604">
+        <Date>2014-06-26 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Pernambuco</Stat>
+      <Stat Type="City">Recife</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t596" />
+      <TeamData Side="Away" TeamRef="t357" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731815">
+      <MatchInfo MatchDay="4" MatchType="Cup" NextMatch="g731823" Period="PreMatch" RoundNumber="2" RoundType="Round" Venue_id="2905">
+        <Date>2014-06-28 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio Mineirão</Stat>
+      <Stat Type="City">Belo Horizonte</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1908" />
+      <TeamData Side="Away" TeamRef="t1917" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:00:03+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731816">
+      <MatchInfo MatchDay="4" MatchType="Cup" NextMatch="g731823" Period="PreMatch" RoundNumber="2" RoundType="Round" Venue_id="2900">
+        <Date>2014-06-28 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio do Maracanã</Stat>
+      <Stat Type="City">Rio de Janeiro</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1910" />
+      <TeamData Side="Away" TeamRef="t1919" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:00:25+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731817">
+      <MatchInfo MatchDay="4" MatchType="Cup" NextMatch="g731825" Period="PreMatch" RoundNumber="2" RoundType="Round" Venue_id="6586">
+        <Date>2014-06-29 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Castelão</Stat>
+      <Stat Type="City">Fortaleza</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1909" />
+      <TeamData Side="Away" TeamRef="t1916" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:00:28+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731818">
+      <MatchInfo MatchDay="4" MatchType="Cup" NextMatch="g731825" Period="PreMatch" RoundNumber="2" RoundType="Round" Venue_id="8604">
+        <Date>2014-06-29 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Pernambuco</Stat>
+      <Stat Type="City">Recife</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1911" />
+      <TeamData Side="Away" TeamRef="t1918" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:00:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731819">
+      <MatchInfo MatchDay="4" MatchType="Cup" NextMatch="g731824" Period="PreMatch" RoundNumber="2" RoundType="Round" Venue_id="3006">
+        <Date>2014-06-30 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Nacional Mané Garrincha</Stat>
+      <Stat Type="City">Brasília</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1912" />
+      <TeamData Side="Away" TeamRef="t1921" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:00:32+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731820">
+      <MatchInfo MatchDay="4" MatchType="Cup" NextMatch="g731824" Period="PreMatch" RoundNumber="2" RoundType="Round" Venue_id="2920">
+        <Date>2014-06-30 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio Beira-Rio</Stat>
+      <Stat Type="City">Porto Alegre</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1914" />
+      <TeamData Side="Away" TeamRef="t1923" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:00:35+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731821">
+      <MatchInfo MatchDay="4" MatchType="Cup" NextMatch="g731826" Period="PreMatch" RoundNumber="2" RoundType="Round" Venue_id="8606">
+        <Date>2014-07-01 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena de São Paulo</Stat>
+      <Stat Type="City">São Paulo</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1913" />
+      <TeamData Side="Away" TeamRef="t1920" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:00:38+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731822">
+      <MatchInfo MatchDay="4" MatchType="Cup" NextMatch="g731826" Period="PreMatch" RoundNumber="2" RoundType="Round" Venue_id="8605">
+        <Date>2014-07-01 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Fonte Nova</Stat>
+      <Stat Type="City">Salvador</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1915" />
+      <TeamData Side="Away" TeamRef="t1922" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:00:41+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731823">
+      <MatchInfo MatchDay="5" MatchType="Cup" NextMatch="g731827" Period="PreMatch" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="6586">
+        <Date>2014-07-04 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Castelão</Stat>
+      <Stat Type="City">Fortaleza</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t5550" />
+      <TeamData Side="Away" TeamRef="t5551" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:00:44+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731824">
+      <MatchInfo MatchDay="5" MatchType="Cup" NextMatch="g731827" Period="PreMatch" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="2900">
+        <Date>2014-07-04 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio do Maracanã</Stat>
+      <Stat Type="City">Rio de Janeiro</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t5554" />
+      <TeamData Side="Away" TeamRef="t5555" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:01:14+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731825">
+      <MatchInfo MatchDay="5" MatchType="Cup" NextMatch="g731828" Period="PreMatch" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="8605">
+        <Date>2014-07-05 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena Fonte Nova</Stat>
+      <Stat Type="City">Salvador</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t5552" />
+      <TeamData Side="Away" TeamRef="t5553" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:01:17+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731826">
+      <MatchInfo MatchDay="5" MatchType="Cup" NextMatch="g731828" Period="PreMatch" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="3006">
+        <Date>2014-07-05 17:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Nacional Mané Garrincha</Stat>
+      <Stat Type="City">Brasília</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t5556" />
+      <TeamData Side="Away" TeamRef="t5557" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:01:20+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731827">
+      <MatchInfo MatchDay="6" MatchType="Cup" NextMatch="g731830" NextMatchLoser="g731829" Period="PreMatch" RoundNumber="4" RoundType="Semi-Finals" Venue_id="2905">
+        <Date>2014-07-08 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio Mineirão</Stat>
+      <Stat Type="City">Belo Horizonte</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t2517" />
+      <TeamData Side="Away" TeamRef="t2519" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:01:23+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731828">
+      <MatchInfo MatchDay="6" MatchType="Cup" NextMatch="g731830" NextMatchLoser="g731829" Period="PreMatch" RoundNumber="4" RoundType="Semi-Finals" Venue_id="8606">
+        <Date>2014-07-09 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Arena de São Paulo</Stat>
+      <Stat Type="City">São Paulo</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t2518" />
+      <TeamData Side="Away" TeamRef="t2520" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:01:27+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731829">
+      <MatchInfo MatchDay="7" MatchType="Cup" Period="PreMatch" RoundNumber="5" RoundType="3rd and 4th Place" Venue_id="3006">
+        <Date>2014-07-12 21:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estádio Nacional Mané Garrincha</Stat>
+      <Stat Type="City">Brasília</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1938" />
+      <TeamData Side="Away" TeamRef="t1939" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-23T16:01:30+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g731830">
+      <MatchInfo MatchDay="8" MatchType="Cup" Period="PreMatch" RoundNumber="6" RoundType="Final" Venue_id="2900">
+        <Date>2014-07-13 20:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Estadio do Maracanã</Stat>
+      <Stat Type="City">Rio de Janeiro</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData Side="Home" TeamRef="t1936" />
+      <TeamData Side="Away" TeamRef="t1937" />
+    </MatchData>
+    <TimingTypes>
+      <DetailTypes>
+        <DetailType detail_id="0" name="Unknown" />
+        <DetailType detail_id="1" name="All Events (with positions)" />
+        <DetailType detail_id="2" name="All Events" />
+        <DetailType detail_id="3" name="Key Events" />
+        <DetailType detail_id="4" name="Lineups, Goals &amp; Cards" />
+        <DetailType detail_id="5" name="Goals" />
+        <DetailType detail_id="6" name="Scores" />
+      </DetailTypes>
+      <TimestampAccuracyTypes>
+        <TimestampAccuracyType name="Unknown" timing_id="0" />
+        <TimestampAccuracyType name="Fully Accurate Timestamps (24hr + Match Times)" timing_id="1" />
+        <TimestampAccuracyType name="Accurate Match Times only" timing_id="2" />
+        <TimestampAccuracyType name="To The Minute Accurate" timing_id="3" />
+        <TimestampAccuracyType name="Low Level Accurate Match Times" timing_id="4" />
+        <TimestampAccuracyType name="No Match Time Accuracy" timing_id="5" />
+      </TimestampAccuracyTypes>
+      <TimingType>
+        <TimingType name="Unknown" timestamp_accuracy_id="0" />
+        <TimingType name="Live" timestamp_accuracy_id="1" />
+        <TimingType name="Live Delayed" timestamp_accuracy_id="2" />
+        <TimingType name="Post Match (less than 24 hours)" timestamp_accuracy_id="3" />
+        <TimingType name="Post Match (24 hours+)" timestamp_accuracy_id="4" />
+      </TimingType>
+    </TimingTypes>
+    <Team uID="t1921">
+      <Name>Group F Second Place</Name>
+    </Team>
+    <Team uID="t118">
+      <Name>Spain</Name>
+    </Team>
+    <Team uID="t1920">
+      <Name>Group E Second Place</Name>
+    </Team>
+    <Team uID="t831">
+      <Name>Chile</Name>
+    </Team>
+    <Team uID="t5550">
+      <Name>Quarter-Finalist 1</Name>
+    </Team>
+    <Team uID="t537">
+      <Name>Bosnia and Herzegovina</Name>
+    </Team>
+    <Team uID="t119">
+      <Name>Italy</Name>
+    </Team>
+    <Team uID="t1923">
+      <Name>Group H Second Place</Name>
+    </Team>
+    <Team uID="t366">
+      <Name>Netherlands</Name>
+    </Team>
+    <Team uID="t1937">
+      <Name>Semi-Final 2 Winner</Name>
+    </Team>
+    <Team uID="t1221">
+      <Name>Côte d&#39;Ivoire</Name>
+    </Team>
+    <Team uID="t1912">
+      <Name>Group E Winner</Name>
+    </Team>
+    <Team uID="t5556">
+      <Name>Quarter-Finalist 7</Name>
+    </Team>
+    <Team uID="t359">
+      <Name>Portugal</Name>
+    </Team>
+    <Team uID="t517">
+      <Name>Greece</Name>
+    </Team>
+    <Team uID="t368">
+      <Name>France</Name>
+    </Team>
+    <Team uID="t2518">
+      <Name>Winner Quarter-Final 3</Name>
+    </Team>
+    <Team uID="t5555">
+      <Name>Quarter-Finalist 6</Name>
+    </Team>
+    <Team uID="t536">
+      <Name>Russia</Name>
+    </Team>
+    <Team uID="t1266">
+      <Name>Japan</Name>
+    </Team>
+    <Team uID="t632">
+      <Name>Argentina</Name>
+    </Team>
+    <Team uID="t535">
+      <Name>Croatia</Name>
+    </Team>
+    <Team uID="t360">
+      <Name>Belgium</Name>
+    </Team>
+    <Team uID="t837">
+      <Name>Uruguay</Name>
+    </Team>
+    <Team uID="t1909">
+      <Name>Group B Winner</Name>
+    </Team>
+    <Team uID="t5557">
+      <Name>Quarter-Finalist 8</Name>
+    </Team>
+    <Team uID="t1215">
+      <Name>Algeria</Name>
+    </Team>
+    <Team uID="t1219">
+      <Name>Ghana</Name>
+    </Team>
+    <Team uID="t114">
+      <Name>England</Name>
+    </Team>
+    <Team uID="t1939">
+      <Name>Semi-Final 2 Loser</Name>
+    </Team>
+    <Team uID="t5553">
+      <Name>Quarter-Finalist 4</Name>
+    </Team>
+    <Team uID="t659">
+      <Name>Mexico</Name>
+    </Team>
+    <Team uID="t1908">
+      <Name>Group A Winner</Name>
+    </Team>
+    <Team uID="t1041">
+      <Name>South Korea</Name>
+    </Team>
+    <Team uID="t5552">
+      <Name>Quarter-Finalist 3</Name>
+    </Team>
+    <Team uID="t2519">
+      <Name>Winner Quarter-Final 2</Name>
+    </Team>
+    <Team uID="t2520">
+      <Name>Winner Quarter-Final 4</Name>
+    </Team>
+    <Team uID="t575">
+      <Name>Australia</Name>
+    </Team>
+    <Team uID="t1915">
+      <Name>Group H Winner</Name>
+    </Team>
+    <Team uID="t5554">
+      <Name>Quarter-Finalist 5</Name>
+    </Team>
+    <Team uID="t838">
+      <Name>Costa Rica</Name>
+    </Team>
+    <Team uID="t1914">
+      <Name>Group G Winner</Name>
+    </Team>
+    <Team uID="t1938">
+      <Name>Semi-Final 1 Loser</Name>
+    </Team>
+    <Team uID="t1919">
+      <Name>Group D Second Place</Name>
+    </Team>
+    <Team uID="t614">
+      <Name>Brazil</Name>
+    </Team>
+    <Team uID="t1917">
+      <Name>Group B Second Place</Name>
+    </Team>
+    <Team uID="t596">
+      <Name>USA</Name>
+    </Team>
+    <Team uID="t1910">
+      <Name>Group C Winner</Name>
+    </Team>
+    <Team uID="t5551">
+      <Name>Quarter-Finalist 2</Name>
+    </Team>
+    <Team uID="t1936">
+      <Name>Semi-Final 1 Winner</Name>
+    </Team>
+    <Team uID="t1918">
+      <Name>Group C Second Place</Name>
+    </Team>
+    <Team uID="t1922">
+      <Name>Group G Second Place</Name>
+    </Team>
+    <Team uID="t1913">
+      <Name>Group F Winner</Name>
+    </Team>
+    <Team uID="t1216">
+      <Name>Nigeria</Name>
+    </Team>
+    <Team uID="t830">
+      <Name>Ecuador</Name>
+    </Team>
+    <Team uID="t1916">
+      <Name>Group A Second Place</Name>
+    </Team>
+    <Team uID="t494">
+      <Name>Cameroon</Name>
+    </Team>
+    <Team uID="t2517">
+      <Name>Winner Quarter-Final 1</Name>
+    </Team>
+    <Team uID="t847">
+      <Name>Honduras</Name>
+    </Team>
+    <Team uID="t497">
+      <Name>Switzerland</Name>
+    </Team>
+    <Team uID="t1042">
+      <Name>Iran</Name>
+    </Team>
+    <Team uID="t832">
+      <Name>Colombia</Name>
+    </Team>
+    <Team uID="t357">
+      <Name>Germany</Name>
+    </Team>
+    <Team uID="t1911">
+      <Name>Group D Winner</Name>
+    </Team>
+  </SoccerDocument>
+</SoccerFeed>

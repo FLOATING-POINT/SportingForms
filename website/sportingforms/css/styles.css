@@ -1,0 +1,195 @@
+
+@font-face {
+    font-family: 'LatoBold';
+    src: url('fonts/Lato-Bold-webfont.eot');
+    src: url('fonts/Lato-Bold-webfont.eot?#iefix') format('eot'),
+         url('fonts/Lato-Bold-webfont.woff') format('woff'),
+         url('fonts/Lato-Bold-webfont.ttf') format('truetype'),
+         url('fonts/Lato-Bold-webfont.svg#webfontWChoG53K') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'LatoBoldItalic';
+    src: url('fonts/Lato-BoldItalic-webfont.eot');
+    src: url('fonts/Lato-BoldItalic-webfont.eot?#iefix') format('eot'),
+         url('fonts/Lato-BoldItalic-webfont.woff') format('woff'),
+         url('fonts/Lato-BoldItalic-webfont.ttf') format('truetype'),
+         url('fonts/Lato-BoldItalic-webfont.svg#webfontFaSudPkB') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'LatoItalic';
+    src: url('fonts/Lato-Italic-webfont.eot');
+    src: url('fonts/Lato-Italic-webfont.eot?#iefix') format('eot'),
+         url('fonts/Lato-Italic-webfont.woff') format('woff'),
+         url('fonts/Lato-Italic-webfont.ttf') format('truetype'),
+         url('fonts/Lato-Italic-webfont.svg#webfontK66ymxTv') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'LatoRegular';
+    src: url('fonts/Lato-Regular-webfont.eot');
+    src: url('fonts/Lato-Regular-webfont.eot?#iefix') format('eot'),
+         url('fonts/Lato-Regular-webfont.woff') format('woff'),
+         url('fonts/Lato-Regular-webfont.ttf') format('truetype'),
+         url('fonts/Lato-Regular-webfont.svg#webfontwlOsaZaJ') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
+-------------------------------------------------------------- */
+html,body{
+	-webkit-font-smoothing: antialiased;
+text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+}
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	border: 0;
+	font-family: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0;
+	outline: 0;
+	padding: 0;
+	vertical-align: baseline;
+}
+:focus {/* remember to define focus styles! */
+	outline: 0;
+}
+body {
+	background: #231f20;
+	color:#fff;
+	line-height: 1;
+	font-size:18px;
+	line-height: 26px;
+}
+html,
+body{
+    font-family: 'LatoRegular', Helvetica, Arial, sans-serif;
+}
+i,em{
+	 font-family: 'LatoBoldItalic';
+}
+ol, ul {
+	list-style: none;
+}
+table {/* tables still need 'cellspacing="0"' in the markup */
+	border-collapse: separate;
+	border-spacing: 0;
+}
+caption, th, td {
+	font-weight: normal;
+	text-align: left;
+}
+blockquote :before, 
+q p:before{
+	content: "“ ";
+}
+blockquote p:after,
+q p:after {
+	content: " ”";
+}
+blockquote, q {
+	quotes: "“" "”";
+}
+a img {
+	border: 0;
+}
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+p{
+	padding-bottom:26px;
+}
+a{
+	color:#999;
+}
+.clear{
+	clear:both;
+}
+/* =Structure
+
+----------------------------------------------- */
+#container{
+	max-width:1020px;
+	width:70%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.content{
+	padding-top:10%;
+	width:100%;
+	text-align: center;
+}
+#welcome{
+	/*position: absolute;
+	z-index:10;*/
+	padding-top:40%;
+	width:1420px;
+	width:140%;
+	margin-left:-20%;
+}
+
+#welcome h1{
+	font-family: 'LatoBold';
+	font-size:90px;
+	width:100%;	
+	line-height:130px;
+	color:#fff;
+	letter-spacing: 0.4em;
+	text-align: center;
+}
+#welcome h2{
+	font-family: 'LatoBold';
+	font-size:30px;
+	width:100%;	
+	color:#000;
+	letter-spacing: 1.2em;
+	text-align: center;
+}
+
+footer{
+	width:100%;
+	height:300px;
+	margin-top:20%;
+	font-size:14px;
+	line-height:16px;
+	text-align:center;
+	vertical-align: text-bottom;
+}
+footer > ul >li{
+	float:left;
+}
+ul.logo{
+
+}
+ul.logo > li{
+}
+ul.logo li:first-child{
+	height:40px;
+}
+ul.logo li{
+	position: relative;
+}
+ul.logo li div{
+	position: absolute; 
+	bottom: 0;
+	width:100%;
+}

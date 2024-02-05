@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2014 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a07.nexus.opta.net
+     production time:    20140611T144613,122Z
+     production module:  Opta::Feed::XML::Soccer::F1
+-->
+<SoccerFeed>
+  <SoccerDocument Type="RESULTS Latest" competition_code="IG_WC" competition_id="4" competition_name="World Cup" game_system_id="1" season_id="2009" season_name="Season 2009/2010" timestamp="2014-06-11 15-46-13">
+    <MatchData detail_id="1" last_modified="2014-06-10T22:09:08+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312091">
+      <MatchInfo GroupName="A" MatchDay="1" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6433">
+        <Date>2010-06-11 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">FNB Stadium</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t522">
+        <Goal Period="SecondHalf" PlayerRef="p48821" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t659">
+        <Goal Period="SecondHalf" PlayerRef="p6685" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-11T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312092">
+      <MatchInfo GroupName="A" MatchDay="1" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6436">
+        <Date>2010-06-11 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Green Point Stadium</Stat>
+      <Stat Type="City">Cape Town</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t837" />
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t368" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-12T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312093">
+      <MatchInfo GroupName="B" MatchDay="1" MatchType="Regular" MatchWinner="t632" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3654">
+        <Date>2010-06-12 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ellis Park</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t632">
+        <Goal Period="FirstHalf" PlayerRef="p6127" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t1216" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-12T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312095">
+      <MatchInfo GroupName="C" MatchDay="1" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3764">
+        <Date>2010-06-12 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Royal Bafokeng Stadium</Stat>
+      <Stat Type="City">Rustenburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t114">
+        <Goal Period="FirstHalf" PlayerRef="p1814" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t596">
+        <Goal Period="FirstHalf" PlayerRef="p20226" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-12T12:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312094">
+      <MatchInfo GroupName="B" MatchDay="1" MatchType="Regular" MatchWinner="t1041" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3167">
+        <Date>2010-06-12 12:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Nelson Mandela Bay Stadium</Stat>
+      <Stat Type="City">Port Elizabeth</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="2" Side="Home" TeamRef="t1041">
+        <Goal Period="FirstHalf" PlayerRef="p82360" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12882" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t517" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-13T12:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312096">
+      <MatchInfo GroupName="C" MatchDay="1" MatchType="Regular" MatchWinner="t365" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6437">
+        <Date>2010-06-13 12:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Peter Mokaba Stadium</Stat>
+      <Stat Type="City">Polokwane</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t1215" />
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t365">
+        <Goal Period="SecondHalf" PlayerRef="p27522" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-13T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312097">
+      <MatchInfo GroupName="D" MatchDay="1" MatchType="Regular" MatchWinner="t357" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2462">
+        <Date>2010-06-13 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Moses Mabhida Stadium</Stat>
+      <Stat Type="City">Durban</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="2" Score="4" Side="Home" TeamRef="t357">
+        <Goal Period="FirstHalf" PlayerRef="p5155" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p17733" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p55634" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p11960" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t575" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-13T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312098">
+      <MatchInfo GroupName="D" MatchDay="1" MatchType="Regular" MatchWinner="t1219" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3766">
+        <Date>2010-06-13 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Versfeld Stadium</Stat>
+      <Stat Type="City">Pretoria</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t364" />
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t1219">
+        <Goal Period="SecondHalf" PlayerRef="p33223" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-14T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312101">
+      <MatchInfo GroupName="F" MatchDay="1" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6436">
+        <Date>2010-06-14 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Green Point Stadium</Stat>
+      <Stat Type="City">Cape Town</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t119">
+        <Goal Period="SecondHalf" PlayerRef="p10625" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t835">
+        <Goal Period="FirstHalf" PlayerRef="p43035" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-14T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312100">
+      <MatchInfo GroupName="E" MatchDay="1" MatchType="Regular" MatchWinner="t1266" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6435">
+        <Date>2010-06-14 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Free State Stadium</Stat>
+      <Stat Type="City">Bloemfontein</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t1266">
+        <Goal Period="FirstHalf" PlayerRef="p49657" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t494" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-14T12:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312099">
+      <MatchInfo GroupName="E" MatchDay="1" MatchType="Regular" MatchWinner="t366" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6433">
+        <Date>2010-06-14 12:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">FNB Stadium</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="2" Side="Home" TeamRef="t366">
+        <Goal Period="SecondHalf" PlayerRef="p21094" Type="Own" />
+        <Goal Period="SecondHalf" PlayerRef="p4719" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t369" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-15T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312104">
+      <MatchInfo GroupName="G" MatchDay="1" MatchType="Regular" MatchWinner="t614" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3654">
+        <Date>2010-06-15 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ellis Park</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="2" Side="Home" TeamRef="t614">
+        <Goal Period="SecondHalf" PlayerRef="p18573" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p27792" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t1801">
+        <Goal Period="SecondHalf" PlayerRef="p35863" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-15T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312103">
+      <MatchInfo GroupName="G" MatchDay="1" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3167">
+        <Date>2010-06-15 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Nelson Mandela Bay Stadium</Stat>
+      <Stat Type="City">Port Elizabeth</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t1221" />
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t359" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-15T12:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312102">
+      <MatchInfo GroupName="F" MatchDay="1" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3764">
+        <Date>2010-06-15 12:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Royal Bafokeng Stadium</Stat>
+      <Stat Type="City">Rustenburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t1804">
+        <Goal Period="SecondHalf" PlayerRef="p48717" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t507">
+        <Goal Period="SecondHalf" PlayerRef="p14978" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-16T12:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312105">
+      <MatchInfo GroupName="H" MatchDay="1" MatchType="Regular" MatchWinner="t831" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6434">
+        <Date>2010-06-16 12:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Mbombela Stadium</Stat>
+      <Stat Type="City">Nelspruit</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t847" />
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t831">
+        <Goal Period="FirstHalf" PlayerRef="p33298" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-04-23T10:44:29+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312107">
+      <MatchInfo GroupName="A" MatchDay="2" MatchType="Regular" MatchWinner="t837" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3766">
+        <Date>2010-06-16 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Versfeld Stadium</Stat>
+      <Stat Type="City">Pretoria</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t522" />
+      <TeamData HalfScore="1" Score="3" Side="Away" TeamRef="t837">
+        <Goal Period="FirstHalf" PlayerRef="p12273" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12273" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p55407" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-16T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312106">
+      <MatchInfo GroupName="H" MatchDay="1" MatchType="Regular" MatchWinner="t497" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2462">
+        <Date>2010-06-16 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Moses Mabhida Stadium</Stat>
+      <Stat Type="City">Durban</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t118" />
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t497">
+        <Goal Period="SecondHalf" PlayerRef="p39680" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-17T12:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312110">
+      <MatchInfo GroupName="B" MatchDay="2" MatchType="Regular" MatchWinner="t632" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6433">
+        <Date>2010-06-17 12:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">FNB Stadium</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="2" Score="4" Side="Home" TeamRef="t632">
+        <Goal Period="FirstHalf" PlayerRef="p40232" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p36968" Type="Own" />
+        <Goal Period="SecondHalf" PlayerRef="p40232" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p40232" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t1041">
+        <Goal Period="FirstHalf" PlayerRef="p75773" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-17T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312108">
+      <MatchInfo GroupName="A" MatchDay="2" MatchType="Regular" MatchWinner="t659" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6437">
+        <Date>2010-06-17 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Peter Mokaba Stadium</Stat>
+      <Stat Type="City">Polokwane</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t368" />
+      <TeamData HalfScore="0" Score="2" Side="Away" TeamRef="t659">
+        <Goal Period="SecondHalf" PlayerRef="p6144" Type="Penalty" />
+        <Goal Period="SecondHalf" PlayerRef="p43020" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-17T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312109">
+      <MatchInfo GroupName="B" MatchDay="2" MatchType="Regular" MatchWinner="t517" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6435">
+        <Date>2010-06-17 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Free State Stadium</Stat>
+      <Stat Type="City">Bloemfontein</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="2" Side="Home" TeamRef="t517">
+        <Goal Period="FirstHalf" PlayerRef="p28130" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p27375" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t1216">
+        <Goal Period="FirstHalf" PlayerRef="p33588" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-18T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312113">
+      <MatchInfo GroupName="C" MatchDay="2" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6436">
+        <Date>2010-06-18 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Green Point Stadium</Stat>
+      <Stat Type="City">Cape Town</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t114" />
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t1215" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-18T12:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312111">
+      <MatchInfo GroupName="D" MatchDay="2" MatchType="Regular" MatchWinner="t364" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3167">
+        <Date>2010-06-18 12:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Nelson Mandela Bay Stadium</Stat>
+      <Stat Type="City">Port Elizabeth</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t357" />
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t364">
+        <Goal Period="FirstHalf" PlayerRef="p41106" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-18T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312112">
+      <MatchInfo GroupName="C" MatchDay="2" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3654">
+        <Date>2010-06-18 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ellis Park</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="2" Score="2" Side="Home" TeamRef="t365">
+        <Goal Period="FirstHalf" PlayerRef="p37412" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p27289" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="2" Side="Away" TeamRef="t596">
+        <Goal Period="SecondHalf" PlayerRef="p5075" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37368" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-19T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312116">
+      <MatchInfo GroupName="E" MatchDay="2" MatchType="Regular" MatchWinner="t369" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3766">
+        <Date>2010-06-19 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Versfeld Stadium</Stat>
+      <Stat Type="City">Pretoria</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t494">
+        <Goal Period="FirstHalf" PlayerRef="p8438" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="2" Side="Away" TeamRef="t369">
+        <Goal Period="FirstHalf" PlayerRef="p27697" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p4004" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-19T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312114">
+      <MatchInfo GroupName="D" MatchDay="2" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3764">
+        <Date>2010-06-19 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Royal Bafokeng Stadium</Stat>
+      <Stat Type="City">Rustenburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t1219">
+        <Goal Period="FirstHalf" PlayerRef="p33223" Type="Penalty" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t575">
+        <Goal Period="FirstHalf" PlayerRef="p13866" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-19T12:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312115">
+      <MatchInfo GroupName="E" MatchDay="2" MatchType="Regular" MatchWinner="t366" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2462">
+        <Date>2010-06-19 12:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Moses Mabhida Stadium</Stat>
+      <Stat Type="City">Durban</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t366">
+        <Goal Period="SecondHalf" PlayerRef="p15403" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t1266" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-20T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312119">
+      <MatchInfo GroupName="G" MatchDay="2" MatchType="Regular" MatchWinner="t614" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6433">
+        <Date>2010-06-20 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">FNB Stadium</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="3" Side="Home" TeamRef="t614">
+        <Goal Period="FirstHalf" PlayerRef="p6752" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p27792" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p6752" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t1221">
+        <Goal Period="SecondHalf" PlayerRef="p12303" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-20T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312118">
+      <MatchInfo GroupName="F" MatchDay="2" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6434">
+        <Date>2010-06-20 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Mbombela Stadium</Stat>
+      <Stat Type="City">Nelspruit</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="1" Side="Home" TeamRef="t119">
+        <Goal Period="FirstHalf" PlayerRef="p7452" Type="Penalty" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t1804">
+        <Goal Period="FirstHalf" PlayerRef="p19747" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-20T12:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312117">
+      <MatchInfo GroupName="F" MatchDay="2" MatchType="Regular" MatchWinner="t835" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6435">
+        <Date>2010-06-20 12:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Free State Stadium</Stat>
+      <Stat Type="City">Bloemfontein</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t507" />
+      <TeamData HalfScore="1" Score="2" Side="Away" TeamRef="t835">
+        <Goal Period="FirstHalf" PlayerRef="p42793" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p32275" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-21T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312121">
+      <MatchInfo GroupName="H" MatchDay="2" MatchType="Regular" MatchWinner="t831" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3167">
+        <Date>2010-06-21 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Nelson Mandela Bay Stadium</Stat>
+      <Stat Type="City">Port Elizabeth</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t831">
+        <Goal Period="SecondHalf" PlayerRef="p18301" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t497" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-21T12:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312120">
+      <MatchInfo GroupName="G" MatchDay="2" MatchType="Regular" MatchWinner="t359" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6436">
+        <Date>2010-06-21 12:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Green Point Stadium</Stat>
+      <Stat Type="City">Cape Town</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="7" Side="Home" TeamRef="t359">
+        <Goal Period="FirstHalf" PlayerRef="p19921" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14937" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19628" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15269" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15269" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17743" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p5818" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t1801" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-21T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312122">
+      <MatchInfo GroupName="H" MatchDay="2" MatchType="Regular" MatchWinner="t118" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3654">
+        <Date>2010-06-21 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ellis Park</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="2" Side="Home" TeamRef="t118">
+        <Goal Period="FirstHalf" PlayerRef="p17279" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p17279" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t847" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-21T14:50:10+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312124">
+      <MatchInfo GroupName="A" MatchDay="3" MatchType="Regular" MatchWinner="t522" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6435">
+        <Date>2010-06-22 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Free State Stadium</Stat>
+      <Stat Type="City">Bloemfontein</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t368">
+        <Goal Period="SecondHalf" PlayerRef="p10425" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="2" Score="2" Side="Away" TeamRef="t522">
+        <Goal Period="FirstHalf" PlayerRef="p26891" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p61887" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-22T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312126">
+      <MatchInfo GroupName="B" MatchDay="3" MatchType="Regular" MatchWinner="t632" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6437">
+        <Date>2010-06-22 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Peter Mokaba Stadium</Stat>
+      <Stat Type="City">Polokwane</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t517" />
+      <TeamData HalfScore="0" Score="2" Side="Away" TeamRef="t632">
+        <Goal Period="SecondHalf" PlayerRef="p15312" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p8632" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-22T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312123">
+      <MatchInfo GroupName="A" MatchDay="3" MatchType="Regular" MatchWinner="t837" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3764">
+        <Date>2010-06-22 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Royal Bafokeng Stadium</Stat>
+      <Stat Type="City">Rustenburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t659" />
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t837">
+        <Goal Period="FirstHalf" PlayerRef="p39336" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-22T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312125">
+      <MatchInfo GroupName="B" MatchDay="3" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2462">
+        <Date>2010-06-22 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Moses Mabhida Stadium</Stat>
+      <Stat Type="City">Durban</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="2" Side="Home" TeamRef="t1216">
+        <Goal Period="FirstHalf" PlayerRef="p33588" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13239" Type="Penalty" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="2" Side="Away" TeamRef="t1041">
+        <Goal Period="FirstHalf" PlayerRef="p82360" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p36968" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-23T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312130">
+      <MatchInfo GroupName="D" MatchDay="3" MatchType="Regular" MatchWinner="t575" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6434">
+        <Date>2010-06-23 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Mbombela Stadium</Stat>
+      <Stat Type="City">Nelspruit</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="2" Side="Home" TeamRef="t575">
+        <Goal Period="SecondHalf" PlayerRef="p13866" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p3273" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t364">
+        <Goal Period="SecondHalf" PlayerRef="p26747" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-23T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312129">
+      <MatchInfo GroupName="D" MatchDay="3" MatchType="Regular" MatchWinner="t357" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6433">
+        <Date>2010-06-23 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">FNB Stadium</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t1219" />
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t357">
+        <Goal Period="SecondHalf" PlayerRef="p37605" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-23T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312127">
+      <MatchInfo GroupName="C" MatchDay="3" MatchType="Regular" MatchWinner="t114" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3167">
+        <Date>2010-06-23 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Nelson Mandela Bay Stadium</Stat>
+      <Stat Type="City">Port Elizabeth</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t365" />
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t114">
+        <Goal Period="FirstHalf" PlayerRef="p7958" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-23T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312128">
+      <MatchInfo GroupName="C" MatchDay="3" MatchType="Regular" MatchWinner="t596" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3766">
+        <Date>2010-06-23 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Versfeld Stadium</Stat>
+      <Stat Type="City">Pretoria</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t596">
+        <Goal Period="SecondHalf" PlayerRef="p5075" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t1215" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-24T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312134">
+      <MatchInfo GroupName="E" MatchDay="3" MatchType="Regular" MatchWinner="t366" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6436">
+        <Date>2010-06-24 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Green Point Stadium</Stat>
+      <Stat Type="City">Cape Town</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t494">
+        <Goal Period="SecondHalf" PlayerRef="p8438" Type="Penalty" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="2" Side="Away" TeamRef="t366">
+        <Goal Period="FirstHalf" PlayerRef="p12297" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14941" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-24T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312133">
+      <MatchInfo GroupName="E" MatchDay="3" MatchType="Regular" MatchWinner="t1266" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3764">
+        <Date>2010-06-24 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Royal Bafokeng Stadium</Stat>
+      <Stat Type="City">Rustenburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t369">
+        <Goal Period="SecondHalf" PlayerRef="p4001" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="2" Score="3" Side="Away" TeamRef="t1266">
+        <Goal Period="FirstHalf" PlayerRef="p49657" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p18086" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p78412" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-24T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312132">
+      <MatchInfo GroupName="F" MatchDay="3" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6437">
+        <Date>2010-06-24 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Peter Mokaba Stadium</Stat>
+      <Stat Type="City">Polokwane</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t835" />
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t1804" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-24T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312131">
+      <MatchInfo GroupName="F" MatchDay="3" MatchType="Regular" MatchWinner="t507" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3654">
+        <Date>2010-06-24 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ellis Park</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="3" Side="Home" TeamRef="t507">
+        <Goal Period="FirstHalf" PlayerRef="p14978" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p14978" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p67221" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="2" Side="Away" TeamRef="t119">
+        <Goal Period="SecondHalf" PlayerRef="p13520" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12473" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-25T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312137">
+      <MatchInfo GroupName="H" MatchDay="3" MatchType="Regular" MatchWinner="t118" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="3766">
+        <Date>2010-06-25 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Versfeld Stadium</Stat>
+      <Stat Type="City">Pretoria</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t831">
+        <Goal Period="SecondHalf" PlayerRef="p62357" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="2" Score="2" Side="Away" TeamRef="t118">
+        <Goal Period="FirstHalf" PlayerRef="p17279" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p12237" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-25T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312135">
+      <MatchInfo GroupName="G" MatchDay="3" MatchType="Regular" MatchWinner="t1221" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6434">
+        <Date>2010-06-25 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Mbombela Stadium</Stat>
+      <Stat Type="City">Nelspruit</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t1801" />
+      <TeamData HalfScore="2" Score="3" Side="Away" TeamRef="t1221">
+        <Goal Period="FirstHalf" PlayerRef="p14664" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p28112" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p37352" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-25T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312136">
+      <MatchInfo GroupName="G" MatchDay="3" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="2462">
+        <Date>2010-06-25 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Moses Mabhida Stadium</Stat>
+      <Stat Type="City">Durban</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t359" />
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t614" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-25T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g312138">
+      <MatchInfo GroupName="H" MatchDay="3" MatchType="Regular" Period="FullTime" RoundNumber="1" RoundType="Round" Venue_id="6435">
+        <Date>2010-06-25 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Free State Stadium</Stat>
+      <Stat Type="City">Bloemfontein</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t497" />
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t847" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-26T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318290">
+      <MatchInfo MatchDay="4" MatchType="Cup" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="3764">
+        <Date>2010-06-26 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Royal Bafokeng Stadium</Stat>
+      <Stat Type="City">Rustenburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData ExtraScore="0" HalfScore="0" Score="1" Side="Home" TeamRef="t596">
+        <Goal Period="SecondHalf" PlayerRef="p5075" Type="Penalty" />
+      </TeamData>
+      <TeamData ExtraScore="1" HalfScore="1" Score="2" Side="Away" TeamRef="t1219">
+        <Goal Period="FirstHalf" PlayerRef="p20360" Type="Goal" />
+        <Goal Period="ExtraFirstHalf" PlayerRef="p33223" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-26T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318289">
+      <MatchInfo MatchDay="4" MatchType="Cup" MatchWinner="t837" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="3167">
+        <Date>2010-06-26 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Nelson Mandela Bay Stadium</Stat>
+      <Stat Type="City">Port Elizabeth</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="2" Side="Home" TeamRef="t837">
+        <Goal Period="FirstHalf" PlayerRef="p39336" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p39336" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t1041">
+        <Goal Period="SecondHalf" PlayerRef="p75773" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-27T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318292">
+      <MatchInfo MatchDay="4" MatchType="Cup" MatchWinner="t632" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="6433">
+        <Date>2010-06-27 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">FNB Stadium</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="2" Score="3" Side="Home" TeamRef="t632">
+        <Goal Period="FirstHalf" PlayerRef="p20312" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p40232" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p20312" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t659">
+        <Goal Period="SecondHalf" PlayerRef="p43020" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-27T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318291">
+      <MatchInfo MatchDay="4" MatchType="Cup" MatchWinner="t357" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="6435">
+        <Date>2010-06-27 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Free State Stadium</Stat>
+      <Stat Type="City">Bloemfontein</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="2" Score="4" Side="Home" TeamRef="t357">
+        <Goal Period="FirstHalf" PlayerRef="p17733" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p5155" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p55634" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p55634" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t114">
+        <Goal Period="FirstHalf" PlayerRef="p1640" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-28T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318294">
+      <MatchInfo MatchDay="4" MatchType="Cup" MatchWinner="t614" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="3654">
+        <Date>2010-06-28 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ellis Park</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="2" Score="3" Side="Home" TeamRef="t614">
+        <Goal Period="FirstHalf" PlayerRef="p6752" Type="Goal" />
+        <Goal Period="FirstHalf" PlayerRef="p13306" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15107" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t831" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-28T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318293">
+      <MatchInfo MatchDay="4" MatchType="Cup" MatchWinner="t366" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="2462">
+        <Date>2010-06-28 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Moses Mabhida Stadium</Stat>
+      <Stat Type="City">Durban</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="2" Side="Home" TeamRef="t366">
+        <Goal Period="FirstHalf" PlayerRef="p8533" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15403" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t507">
+        <Goal Period="SecondHalf" PlayerRef="p14978" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-06-02T16:57:09+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318295">
+      <MatchInfo MatchDay="4" MatchType="Cup" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="3766">
+        <Date>2010-06-29 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Loftus Versfeld Stadium</Stat>
+      <Stat Type="City">Pretoria</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="0" PenaltyScore="5" Score="0" Side="Home" TeamRef="t835">
+        <Goal Period="ShootOut" PlayerRef="p72045" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p14404" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p15868" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p32275" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p42795" Type="Penalty" />
+      </TeamData>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="0" PenaltyScore="3" Score="0" Side="Away" TeamRef="t1266">
+        <Goal Period="ShootOut" PlayerRef="p37121" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p18086" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p49657" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-06-29T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318296">
+      <MatchInfo MatchDay="4" MatchType="Cup" MatchWinner="t118" Period="FullTime" RoundNumber="2" RoundType="Round" Venue_id="6436">
+        <Date>2010-06-29 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Green Point Stadium</Stat>
+      <Stat Type="City">Cape Town</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="1" Side="Home" TeamRef="t118">
+        <Goal Period="SecondHalf" PlayerRef="p17279" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="0" Score="0" Side="Away" TeamRef="t359" />
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-07-02T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318297">
+      <MatchInfo MatchDay="5" MatchType="Cup" MatchWinner="t366" Period="FullTime" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="3167">
+        <Date>2010-07-02 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Nelson Mandela Bay Stadium</Stat>
+      <Stat Type="City">Port Elizabeth</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="2" Side="Home" TeamRef="t366">
+        <Goal Period="SecondHalf" PlayerRef="p15403" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15403" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="1" Side="Away" TeamRef="t614">
+        <Goal Period="FirstHalf" PlayerRef="p15107" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-04-29T15:05:45+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318298">
+      <MatchInfo MatchDay="5" MatchType="Cup" Period="FullTime" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="6433">
+        <Date>2010-07-02 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">FNB Stadium</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData ExtraScore="0" HalfScore="0" NinetyScore="1" PenaltyScore="4" Score="1" Side="Home" TeamRef="t837">
+        <Goal Period="SecondHalf" PlayerRef="p12273" Type="Goal" />
+        <Goal Period="ShootOut" PlayerRef="p37505" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p12273" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p42865" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p13067" Type="Penalty" />
+      </TeamData>
+      <TeamData ExtraScore="0" HalfScore="1" NinetyScore="1" PenaltyScore="2" Score="1" Side="Away" TeamRef="t1219">
+        <Goal Period="FirstHalf" PlayerRef="p14791" Type="Goal" />
+        <Goal Period="ShootOut" PlayerRef="p33223" Type="Penalty" />
+        <Goal Period="ShootOut" PlayerRef="p7373" Type="Penalty" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-07-03T15:00:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318299">
+      <MatchInfo MatchDay="5" MatchType="Cup" MatchWinner="t357" Period="FullTime" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="6436">
+        <Date>2010-07-03 15:00:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Green Point Stadium</Stat>
+      <Stat Type="City">Cape Town</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t632" />
+      <TeamData HalfScore="1" Score="4" Side="Away" TeamRef="t357">
+        <Goal Period="FirstHalf" PlayerRef="p55634" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p13593" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p5155" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p5155" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-07-03T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318300">
+      <MatchInfo MatchDay="5" MatchType="Cup" MatchWinner="t118" Period="FullTime" RoundNumber="3" RoundType="Quarter-Finals" Venue_id="3654">
+        <Date>2010-07-03 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Ellis Park</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t835" />
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t118">
+        <Goal Period="SecondHalf" PlayerRef="p17279" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-05-22T10:43:53+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318301">
+      <MatchInfo MatchDay="6" MatchType="Cup" MatchWinner="t366" Period="FullTime" RoundNumber="4" RoundType="Semi-Finals" Venue_id="6436">
+        <Date>2010-07-06 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Green Point Stadium</Stat>
+      <Stat Type="City">Cape Town</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="2" Side="Home" TeamRef="t837">
+        <Goal Period="FirstHalf" PlayerRef="p12273" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p32284" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="3" Side="Away" TeamRef="t366">
+        <Goal Period="FirstHalf" PlayerRef="p2338" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p15403" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p8533" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2010-07-07T19:30:00+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318302">
+      <MatchInfo MatchDay="6" MatchType="Cup" MatchWinner="t118" Period="FullTime" RoundNumber="4" RoundType="Semi-Finals" Venue_id="2462">
+        <Date>2010-07-07 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Moses Mabhida Stadium</Stat>
+      <Stat Type="City">Durban</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="0" Score="0" Side="Home" TeamRef="t357" />
+      <TeamData HalfScore="0" Score="1" Side="Away" TeamRef="t118">
+        <Goal Period="SecondHalf" PlayerRef="p5813" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2014-03-12T15:28:10+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318303">
+      <MatchInfo MatchDay="7" MatchType="Cup" MatchWinner="t357" Period="FullTime" RoundNumber="5" RoundType="3rd and 4th Place" Venue_id="3167">
+        <Date>2010-07-10 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">Nelson Mandela Bay Stadium</Stat>
+      <Stat Type="City">Port Elizabeth</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData HalfScore="1" Score="2" Side="Home" TeamRef="t837">
+        <Goal Period="FirstHalf" PlayerRef="p40720" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p12273" Type="Goal" />
+      </TeamData>
+      <TeamData HalfScore="1" Score="3" Side="Away" TeamRef="t357">
+        <Goal Period="FirstHalf" PlayerRef="p55634" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p39816" Type="Goal" />
+        <Goal Period="SecondHalf" PlayerRef="p19561" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <MatchData detail_id="1" last_modified="2013-11-18T18:49:38+00:00" timestamp_accuracy_id="1" timing_id="1" uID="g318304">
+      <MatchInfo MatchDay="8" MatchType="Cup" Period="FullTime" RoundNumber="6" RoundType="Final" Venue_id="6433">
+        <Date>2010-07-11 19:30:00</Date>
+        <TZ>BST</TZ>
+      </MatchInfo>
+      <Stat Type="Venue">FNB Stadium</Stat>
+      <Stat Type="City">Johannesburg</Stat>
+      <Stat Type="Neutral">True</Stat>
+      <TeamData ExtraScore="0" HalfScore="0" Score="0" Side="Home" TeamRef="t366" />
+      <TeamData ExtraScore="1" HalfScore="0" Score="1" Side="Away" TeamRef="t118">
+        <Goal Period="ExtraSecondHalf" PlayerRef="p12237" Type="Goal" />
+      </TeamData>
+    </MatchData>
+    <TimingTypes>
+      <DetailTypes>
+        <DetailType detail_id="0" name="Unknown" />
+        <DetailType detail_id="1" name="All Events (with positions)" />
+        <DetailType detail_id="2" name="All Events" />
+        <DetailType detail_id="3" name="Key Events" />
+        <DetailType detail_id="4" name="Lineups, Goals &amp; Cards" />
+        <DetailType detail_id="5" name="Goals" />
+        <DetailType detail_id="6" name="Scores" />
+      </DetailTypes>
+      <TimestampAccuracyTypes>
+        <TimestampAccuracyType name="Unknown" timing_id="0" />
+        <TimestampAccuracyType name="Fully Accurate Timestamps (24hr + Match Times)" timing_id="1" />
+        <TimestampAccuracyType name="Accurate Match Times only" timing_id="2" />
+        <TimestampAccuracyType name="To The Minute Accurate" timing_id="3" />
+        <TimestampAccuracyType name="Low Level Accurate Match Times" timing_id="4" />
+        <TimestampAccuracyType name="No Match Time Accuracy" timing_id="5" />
+      </TimestampAccuracyTypes>
+      <TimingType>
+        <TimingType name="Unknown" timestamp_accuracy_id="0" />
+        <TimingType name="Live" timestamp_accuracy_id="1" />
+        <TimingType name="Live Delayed" timestamp_accuracy_id="2" />
+        <TimingType name="Post Match (less than 24 hours)" timestamp_accuracy_id="3" />
+        <TimingType name="Post Match (24 hours+)" timestamp_accuracy_id="4" />
+      </TimingType>
+    </TimingTypes>
+    <Team uID="t365">
+      <Name>Slovenia</Name>
+    </Team>
+    <Team uID="t1801">
+      <Name>North Korea</Name>
+    </Team>
+    <Team uID="t659">
+      <Name>Mexico</Name>
+    </Team>
+    <Team uID="t118">
+      <Name>Spain</Name>
+    </Team>
+    <Team uID="t1041">
+      <Name>South Korea</Name>
+    </Team>
+    <Team uID="t831">
+      <Name>Chile</Name>
+    </Team>
+    <Team uID="t119">
+      <Name>Italy</Name>
+    </Team>
+    <Team uID="t575">
+      <Name>Australia</Name>
+    </Team>
+    <Team uID="t366">
+      <Name>Netherlands</Name>
+    </Team>
+    <Team uID="t522">
+      <Name>South Africa</Name>
+    </Team>
+    <Team uID="t1221">
+      <Name>Côte d&#39;Ivoire</Name>
+    </Team>
+    <Team uID="t359">
+      <Name>Portugal</Name>
+    </Team>
+    <Team uID="t517">
+      <Name>Greece</Name>
+    </Team>
+    <Team uID="t368">
+      <Name>France</Name>
+    </Team>
+    <Team uID="t614">
+      <Name>Brazil</Name>
+    </Team>
+    <Team uID="t835">
+      <Name>Paraguay</Name>
+    </Team>
+    <Team uID="t596">
+      <Name>USA</Name>
+    </Team>
+    <Team uID="t1266">
+      <Name>Japan</Name>
+    </Team>
+    <Team uID="t1804">
+      <Name>New Zealand</Name>
+    </Team>
+    <Team uID="t632">
+      <Name>Argentina</Name>
+    </Team>
+    <Team uID="t1216">
+      <Name>Nigeria</Name>
+    </Team>
+    <Team uID="t494">
+      <Name>Cameroon</Name>
+    </Team>
+    <Team uID="t837">
+      <Name>Uruguay</Name>
+    </Team>
+    <Team uID="t364">
+      <Name>Serbia</Name>
+    </Team>
+    <Team uID="t1215">
+      <Name>Algeria</Name>
+    </Team>
+    <Team uID="t847">
+      <Name>Honduras</Name>
+    </Team>
+    <Team uID="t1219">
+      <Name>Ghana</Name>
+    </Team>
+    <Team uID="t369">
+      <Name>Denmark</Name>
+    </Team>
+    <Team uID="t497">
+      <Name>Switzerland</Name>
+    </Team>
+    <Team uID="t114">
+      <Name>England</Name>
+    </Team>
+    <Team uID="t357">
+      <Name>Germany</Name>
+    </Team>
+    <Team uID="t507">
+      <Name>Slovakia</Name>
+    </Team>
+  </SoccerDocument>
+</SoccerFeed>

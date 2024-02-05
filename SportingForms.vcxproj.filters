@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\testApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxml.cpp">
+      <Filter>src\xmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlerror.cpp">
+      <Filter>src\xmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\libs\tinyxmlparser.cpp">
+      <Filter>src\xmlSettings\libs</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.cpp">
+      <Filter>src\xmlSettings\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addonsNoncore\ofxGrabCam\src\ofxGrabCam.cpp">
+      <Filter>src\ofxGrabCam\src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\xmlSettings">
+      <UniqueIdentifier>{3eec9562-cf61-4b7b-848b-ddb7aca84f30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\xmlSettings\libs">
+      <UniqueIdentifier>{5a035921-95fe-4bff-a5bb-0c78d53621ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\xmlSettings\src">
+      <UniqueIdentifier>{490cebab-dc92-4bda-9658-fc01adcc5d0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ofxGrabCam">
+      <UniqueIdentifier>{c00d0923-6369-46b7-87be-ddbbf1dda2c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ofxGrabCam\src">
+      <UniqueIdentifier>{2131fb3f-b2fa-4939-ba67-89c8ce837784}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\testApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxXmlSettings\libs\tinyxml.h">
+      <Filter>src\xmlSettings\libs</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxXmlSettings\src\ofxXmlSettings.h">
+      <Filter>src\xmlSettings\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addonsNoncore\ofxGrabCam\src\ofxGrabCam.h">
+      <Filter>src\ofxGrabCam\src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>

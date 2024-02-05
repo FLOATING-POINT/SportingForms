@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2014 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        valde-jobq-a01.nexus.opta.net
+     production time:    20140615T150757,778Z
+     production module:  Opta::Feed::XML::Soccer::F24
+-->
+<Games timestamp="2014-06-15T16:07:57">
+  <Game id="731775" away_team_id="830" away_team_name="Ecuador" competition_id="4" competition_name="World Cup" game_date="2014-06-15T17:00:00" home_team_id="497" home_team_name="Switzerland" matchday="1" season_id="2013" season_name="Season 2013/2014">
+    <Event id="312998832" event_id="1" type_id="34" period_id="16" min="0" sec="0" team_id="830" outcome="1" x="0.0" y="0.0" timestamp="2014-06-15T16:07:54.566" last_modified="2014-06-15T16:07:54">
+      <Q id="610821368" qualifier_id="227" value="0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      <Q id="179061676" qualifier_id="131" value="1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0" />
+      <Q id="736129082" qualifier_id="59" value="22, 4, 10, 23, 3, 2, 16, 6, 13, 11, 7, 1, 5, 8, 9, 12, 14, 15, 17, 18, 19, 20, 21" />
+      <Q id="178198939" qualifier_id="194" value="148179" />
+      <Q id="1660219675" qualifier_id="44" value="1, 2, 2, 3, 2, 2, 3, 3, 4, 4, 3, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5" />
+      <Q id="372932914" qualifier_id="130" value="2" />
+      <Q id="1907209177" qualifier_id="30" value="58966, 98780, 12631, 147744, 98783, 12625, 20695, 50947, 148179, 42173, 49195, 50362, 101433, 12635, 78545, 107428, 83409, 83407, 98785, 42798, 32978, 117448, 50361" />
+    </Event>
+  </Game>
+</Games>
